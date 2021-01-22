@@ -1,0 +1,9 @@
+{
+	"name": "smjs",
+	"version": "0.0.1",
+	"description": "SMJS is a JavaScript library for symbolic mathematics",
+	"main": "index.js",
+	"repository": "https://github.com/hodovani/smjs",
+	"author": "Matvii Hodovaniuk <matvii@hodovani.uk>",
+	"license": "GNU GENERAL PUBLIC LICENSE"
+}
